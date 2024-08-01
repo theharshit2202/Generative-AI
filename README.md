@@ -1,7 +1,3 @@
-Your updated README looks great! Here's a slightly refined version with a minor correction and added clarity:
-
----
-
 # Generative AI: End-to-End LLM and Large Image Model Application using Gemini Pro 🌟
 
 Welcome to the Generative AI repository! This project demonstrates building an end-to-end application utilizing Large Language Models (LLMs) and image models with the power of Gemini Pro. 
