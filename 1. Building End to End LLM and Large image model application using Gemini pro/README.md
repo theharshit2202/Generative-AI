@@ -1,7 +1,3 @@
-Your updated README looks great! Here's a slightly refined version with a minor correction and added clarity:
-
----
-
 # Generative AI: End-to-End LLM and Large Image Model Application using Gemini Pro 🌟
 
 Welcome to the Generative AI repository! This project demonstrates building an end-to-end application utilizing Large Language Models (LLMs) and image models with the power of Gemini Pro. 
@@ -35,8 +31,8 @@ You have two options to run the application:
    streamlit run app.py
    ```
 
-2. **Text and Image Content Generation** 🖼️:  
-   To generate both text and image content by providing a prompt, run:
+2. **Text and Image both as a prompt** 🖼️:  
+   To provide both text and image content as a prompt, run:
    ```bash
    streamlit run vision.py
    ```
