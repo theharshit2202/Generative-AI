@@ -35,8 +35,8 @@ You have two options to run the application:
    streamlit run app.py
    ```
 
-2. **Text and Image Content Generation** 🖼️:  
-   To generate both text and image content by providing a prompt, run:
+2. **Text and Image both as a prompt** 🖼️:  
+   To provide both text and image content as a prompt, run:
    ```bash
    streamlit run vision.py
    ```
