@@ -29,6 +29,12 @@ st.header("Gemini LLM Applcation")
 input = st.text_input("Input :", key="input")
 submit = st.button("Ask the question")
 
+##Explanation:
+##st.text_input("Input Prompt :", key="input"): creates a text input box in your Streamlit app.
+##"Input Prompt :": is the label displayed next to the text input box.
+##key="input": assigns a unique key to this text input widget. This is important for identifying and accessing the input value later in your code.
+##input: is a variable that stores the text entered by the user in the input box.
+
 ## when submit is click
 
 if submit:

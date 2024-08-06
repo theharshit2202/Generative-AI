@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+pillow
+langchain
+PyPDF2  # reading pdfs
+faiss-cpu # or use -> chromadb # for vector embeddings
+langchain_google_genai
+langchain-community
